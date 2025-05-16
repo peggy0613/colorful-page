@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang="zh-Hant">
+<head>
+    <meta charset="UTF-8">
+    <title>五顏六色</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            padding: 20px;
+            background-color: #f8f8f8;
+        }
+        h1 {
+            color: #333333;
+        }
+        .text-red {
+            color: red;
+        }
+        .text-blue {
+            color: blue;
+        }
+        .text-green {
+            color: green;
+        }
+        .text-orange {
+            color: orange;
+        }
+        .text-purple {
+            color: purple;
+        }
+    </style>
+</head>
+<body>
+
+    <h1>五顏六色</h1>
+
+    <p class="text-red">這是一段紅色的文字。</p>
+    <p class="text-blue">這是一段藍色的文字。</p>
+    <p class="text-green">這是一段綠色的文字。</p>
+    <p class="text-orange">這是一段橘色的文字。</p>
+    <p class="text-purple">這是一段紫色的文字。</p>
+
+</body>
+</html>
